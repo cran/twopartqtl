@@ -1,0 +1,3 @@
+twopartCIM              Composite interval mapping for point-mass mixtures
+pmscan                  Interval mapping with covariates for point-mass mixtures
+sim.cross.exp           Simulate a QTL experiment with selected phenotype distribution
